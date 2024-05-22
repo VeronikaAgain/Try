@@ -2,3 +2,4 @@
 //abaaaaa
 //a
 import c;
+c = a + b;
